@@ -11,22 +11,22 @@ html {
 
 @font-face {
   font-family: Avenir book;
-  src: url(/Fonts/Avenir\ Book.ttf);
+  src: url(./Fonts/Avenir\ Book.ttf);
 }
 
 @font-face {
   font-family: Samsung;
-  src: url(/Fonts/Samsung.ttf);
+  src: url(./Fonts/Samsung.ttf);
 }
 
 @font-face {
   font-family: Sharp Sans Bold;
-  src: url(/Fonts/Sharp\ Sans\ Bold\ Italic.otf);
+  src: url(./Fonts/Sharp\ Sans\ Bold\ Italic.otf);
 }
 
 @font-face {
   font-family: Locomotype;
-  src: url(/Fonts/Locomotype\ \ GigaSansBold.otf);
+  src: url(./Fonts/Locomotype\ \ GigaSansBold.otf);
 }
 
 :root {
